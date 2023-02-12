@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0"> 
+	    <title>第一个网页</title>
+        <link type="text/css" rel="stylesheet" href="css/style.css"/>
+    <script type="text/javascript" src="js/script.js"></script>
+        <style>
+            input:enabled
+        </style>
+        <style>
+            .content{
+                width: 1500px;
+                height: 700px;
+                background-color: blanchedalmond;
+                border: 1px solid black;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="content">
+            <p>你好，既然你点进来了，那么我就跟你讲一下<b>我的规则</b>：</p>
+        <ul>
+ 	        <li>第一</li><p>不要点击此网址中的<a href="file:///C:/Users/yerui/Desktop/1.0.html">其他网页</a>。
+            <br/><del>我赌你正在按。</del></p>
+            <li> 第二</li>
+            <a href="https://space.bilibili.com/1909701181?spm_id_from=333.1007.0.0">
+              <img src="./img/头像.jpg" height="260px" width="260px">
+            <a>
+            <p><b>你已经</b><br/><b>到我的监控范围了</b></p>          
+            <li> 第三</li><p>我完全<b>介意</b>你修改我的网页源代码，<br/>但是<a href="https://www.bilibili.com/">这个不能按</a>。</p>
+        <a href="https://0beb1560-preview.lightly.teamcode.com/first/%E8%BE%93%E5%85%A5.html?server=preview&dcsId=0beb1560&token=LBBQViqHS4iVI8EbVwVcHg"><b>浏览其他东西</b></a>  
+     </body>
+</html>
